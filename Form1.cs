@@ -15,6 +15,7 @@ namespace Renta_Mensual_Tarea_Ctrl.de_Versiones
         //Prueba1
         //Prueba02
         //Prueba03
+        //Prueba04 (Nixie)
         public Form1()
         {
             InitializeComponent();
