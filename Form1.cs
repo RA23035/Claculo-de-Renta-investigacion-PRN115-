@@ -13,6 +13,7 @@ namespace Renta_Mensual_Tarea_Ctrl.de_Versiones
     public partial class Form1 : Form
     {
         //Prueba1
+        //Prueba02
         public Form1()
         {
             InitializeComponent();
